@@ -11,3 +11,5 @@ c. Tugas pembuatan Diagram Use Case dengan bantuan Plant UML. Dapat diakses mela
 d. Tugas pembuatan Chatling Perpustakaan sederhana. Dapat diakses melalui link berikut. [Perpustakaan Chatling.pdf](https://github.com/user-attachments/files/18035090/Perpustakaan.Chatling.pdf)
 
 e. Tugas pembuatan Chatling Restoran untuk latihan. Dapat diakses melalui link berikut. [Latihan Chatling.pdf](https://github.com/user-attachments/files/18035128/Latihan.Chatling.pdf)
+
+f. Tugas akhir (UAS) pembuatan Chatling Sistem Perpustakaan. Dapat diakses melalui link berikut. [UAS Hanum Senja_152.pdf](https://github.com/user-attachments/files/18158885/UAS.Hanum.Senja_152.pdf)
